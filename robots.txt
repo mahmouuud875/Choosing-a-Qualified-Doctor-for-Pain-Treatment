@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://choosing-a-qualified-doctor-for-pai.vercel.app/sitemap.xml
